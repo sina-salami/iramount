@@ -10,7 +10,7 @@ $ npm install iramount --save
 ## Usage
 
 ```javascript
-const irAmount = require("iramount"); 
+const Amount = require("num-to-txt"); 
 const amount = new irAmount(10239876); // constructor just accepts number 
 ```
 
